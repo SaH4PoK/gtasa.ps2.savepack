@@ -23,7 +23,7 @@
 [] Secondary missions
 [] All collectibles 
 [] All girlfriends
-PAL
+**PAL**
 [] Mainline story
 [] Secondary missions
 [] All collectibles 
